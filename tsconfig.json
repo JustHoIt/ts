@@ -8,7 +8,7 @@
         "strict": true
     },
     "include": [
-        "scr/**/*.ts"
+        "src/**/*.ts"
     ],
     "exclude": [
         "node_modules"
