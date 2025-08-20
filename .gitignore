@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.out/
+.next/
+.storybook-out/
+coverage/
+
+# Tool caches
+.parcel-cache/
+.vite/
+.turbo/
+
+# Misc
+.DS_Store
+.env*

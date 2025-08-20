@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "module": "esnext",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "lib": ["ESNext", "DOM"],
+        "strict": true
+    },
+    "include": [
+        "scr/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
